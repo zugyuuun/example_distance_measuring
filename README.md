@@ -1,2 +1,0 @@
-# example_distance_measuring
-測距センサを使って計測した距離をスマートフォンに表示します。
